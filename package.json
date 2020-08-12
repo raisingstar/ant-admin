@@ -2,6 +2,7 @@
   "name": "ant-admin",
   "version": "0.1.0",
   "private": true,
+  "description": "phy_insti_fe",
   "dependencies": {
     "antd": "^2.13.3",
     "d3": "^4.11.0",
